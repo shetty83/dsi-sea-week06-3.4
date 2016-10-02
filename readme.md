@@ -48,7 +48,6 @@ For these models:
 
 [Starter Code](./code/starter-code/starter-code-3_4.ipynb)
 
->[Solution Code](./code/solution-code/solution-code-3_4.ipynb)
 
 ## Additional resources
 
